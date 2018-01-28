@@ -1,6 +1,6 @@
 # tripadvparser
 
-tripadvparser - парсер отелей сайта tripadvisor.
+tripadvparser - парсер отелей сайта tripadvisor. **Последнее обновление 20.07.17**.
 
 ## Требования
 * Python 3
@@ -19,5 +19,7 @@ conf.yaml - конфигурационный файл.
 Результат работы по умолчанию находится в директории output.
 
 output/tripadvisor.db - БД.
+
 output/errors.log - лог с ошибками.
+
 http://sqlitebrowser.org/ - клиент для просмотра БД.
