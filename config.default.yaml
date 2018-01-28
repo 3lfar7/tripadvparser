@@ -1,0 +1,13 @@
+
+out_dir_path: "output"
+skip_errors: true
+extra_languages:
+  ru: "www.tripadvisor.ru"
+services_path: "/Hotels-g294474-Kiev-Hotels.html"
+exclude_services:
+  ru: ["Первый канал"]
+max_photo_count: 10
+price_interval: 15
+# paths:
+#   - "/Hotels-g294474-Kiev-Hotels.html"
+#   - "/Hotel_Review-g294474-d3504611-Reviews-Hilton_Kyiv-Kiev.html"
